@@ -1,0 +1,35 @@
+
+DBMS
+--It is software that allows users to create, store, manage, and retrieve data efficiently from a database.
+--A DBMS acts as an interface between the user and the database, making it easy to handle large amounts 
+  of data securely and efficiently.
+
+languages in DBMS
+--dml(create,alter,drop,truncate,rename)
+--dql(select,update,insert,delete)
+--tcl(commit,rollback,save point)
+--dcl(grant,revoke)
+
+normalization
+--removing the redundancy by organizing the data into multiple tables
+(1NF,2NF,3NF,BCNF)
+
+SQL AGGREGATE FUNCTIONS
+--is used to perform a calculation on a set of values and returns a single value (min,max,count,sum,avg)
+
+what are joins?
+joins is a clause tht is used to combine rows from two or more tables, based on a related column between them
+
+inner joins--selects the records tht have matching values in both the tables
+left
+right
+full outer joins
+
+SQL
+--STRING FUNCTION,SUBSTRING,TIME,UPPER
+
+PERCENTAGE SI,CP,PERCENTAGE
+RIDDLES
+
+
+

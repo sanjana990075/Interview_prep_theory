@@ -1,0 +1,24 @@
+why we need oops?
+--is usefull for breaking down the complex systems into smaller ones,more mangeable components.
+oops also ensures code resuability, and provides data security
+
+what are access specifiers? significance?
+access modifiers are the special keywords which are used to control the accessibility of entities like classes,methods etc(public private protected)
+
+main features of oops and pillars
+
+inheritance(real world,techincal example)
+--it allows one class to inherit the properties the properties of other class.increases the code resuability
+
+Encapsulation
+--core principles of oops.it refers to bundling of data and methods tht operates on data into a single unit is known as Encapsulation
+
+polymorphism
+--Polymorphism in Python is the ability of the same function or method to behave differently for different objects or data types.
+
+compile time polymorphism - function overloading
+run time polymorphism - function overriding
+
+abstraction
+--one of the fundamental principles of oop tht mainly focuses on hiding the implmentation details and exposing nly the essential features
+
